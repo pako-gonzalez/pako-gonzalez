@@ -14,6 +14,8 @@ Want to know more about me? [Check out my portfolio.](https://pakogonzalez.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Reactivo - ¿PUEDE EL PHP REACTIVO HACER ASÍNCRONO A PHP?](https://shibumicode.es/php-reactivo)
+- [git - ¿CÓMO DESHACER EL ÚLTIMO COMMIT EN GIT?](https://shibumicode.es/como-deshago-el-ultimo-commit)
 
 <!-- BLOG-POST-LIST:END -->
 
