@@ -7,20 +7,6 @@ Hey there 👋
 
 I’m Pako, a senior full-stack engineer, creative coder and self-proclaimed always-learner. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://pakogonzalez.com/)
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [PHP Reactivo - ¿PUEDE EL PHP REACTIVO HACER ASÍNCRONO A PHP?](https://shibumicode.es/php-reactivo)
-- [git - ¿CÓMO DESHACER EL ÚLTIMO COMMIT EN GIT?](https://shibumicode.es/como-deshago-el-ultimo-commit)
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ## 📌 Pinned Repositories
 
 <br>
