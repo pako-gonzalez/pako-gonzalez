@@ -64,7 +64,7 @@ Want to know more about me? [Check out my portfolio.](https://pakogonzalez.com/)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=5FA04E&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=nestjs&logoColor=E0234E&color=4AB197)
 
 
