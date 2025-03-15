@@ -65,6 +65,7 @@ Want to know more about me? [Check out my portfolio.](https://pakogonzalez.com/)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=Nest&logoColor=white&color=4AB197)
 
 
 <details>
@@ -79,7 +80,6 @@ Want to know more about me? [Check out my portfolio.](https://pakogonzalez.com/)
 
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 
 <br>
